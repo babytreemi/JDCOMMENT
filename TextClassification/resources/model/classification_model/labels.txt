@@ -1,0 +1,8 @@
+performance
+brand_reputation
+aftersales_service
+appearance
+design
+audio_video
+logistics
+price
